@@ -1,0 +1,189 @@
+#Applicant-Information {
+    text-align: center;
+}
+
+#Previous-Employment {
+    background-color: rgb(99, 99, 99);
+}
+
+#Applicant-Information {
+    background-color: rgb(99, 99, 99);
+}
+
+#education {
+    background-color: rgb(99, 99, 99);
+}
+
+#refrences {
+    background-color: rgb(99, 99, 99);
+}
+
+#Skills-Abilities {
+    background-color: rgb(99, 99, 99);
+}
+
+#Disclaimer-Signature {
+    background-color: rgb(99, 99, 99);
+}
+
+.check-yes1 {
+    position: absolute;
+    left: 699px;
+    top: 537px;
+}
+
+.check-no1 {
+    position: absolute;
+    left: 742px;
+    top: 537px;
+}
+
+.check-yes2 {
+    position: absolute;
+    left: 694px;
+    top: 574px;
+}
+
+.check-no2 {
+    position: absolute;
+    left: 737px;
+    top: 574px;
+}
+
+.check-yes3 {
+    position: absolute;
+    left: 699px;
+    top: 610px;
+}
+
+.check-no3 {
+    position: absolute;
+    left: 742px;
+    top: 610px;
+}
+
+.check-yes4 {
+    position: absolute;
+    left: 1113px;
+    top: 537px;
+}
+
+.check-no4 {
+    position: absolute;
+    left: 1156px;
+    top: 537px;
+}
+
+.last {
+    position: absolute;
+    left: 480px;
+    top: 232px;
+}
+
+.first {
+    position: absolute;
+    left: 700px;
+    top: 232px;
+}
+
+.mid {
+    position: absolute;
+    left: 920px;
+    top: 232px;
+}
+
+.street {
+    position: absolute;
+    left: 476px;
+    top: 300px;
+}
+
+.city {
+    position: absolute;
+    left: 680px;
+    top: 300px;
+}
+
+.state {
+    position: absolute;
+    left: 840px;
+    top: 300px;
+}
+
+.zip {
+    position: absolute;
+    left: 995px;
+    top: 300px;
+}
+
+.check-yes5 {
+    position: absolute;
+    left: 788px;
+    top: 791px;
+}
+
+.check-no5 {
+    position: absolute;
+    left: 836px;
+    top: 791px;
+}
+
+.check-yes6 {
+    position: absolute;
+    left: 785px;
+    top: 860px;
+}
+
+.check-no6 {
+    position: absolute;
+    left: 833px;
+    top: 860px;
+}
+
+.check-yes7 {
+    position: absolute;
+    left: 785px;
+    top: 931px;
+}
+
+.check-no7 {
+    position: absolute;
+    left: 833px;
+    top: 931px;
+}
+
+.check-yes8 {
+    position: absolute;
+    left: 817px;
+    top: 1686px;
+}
+
+.check-no8 {
+    position: absolute;
+    left: 872px;
+    top: 1686px;
+}
+
+.check-yes9 {
+    position: absolute;
+    left: 817px;
+    top: 1921px;
+}
+
+.check-no9 {
+    position: absolute;
+    left: 872px;
+    top: 1921px;
+}
+
+.check-yes10 {
+    position: absolute;
+    left: 817px;
+    top: 2155px;
+}
+
+.check-no10 {
+    position: absolute;
+    left: 872px;
+    top: 2155px;
+}
