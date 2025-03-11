@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Nutrients</title>
+</head>
+<body>
+    <div>
+        <form>
+            <label for="servingSizeAmmount">Serving Size:</label><br>
+            <input type="number" id="servingSizeAmmount" name="servingSizeAmmount" value="0">
+            <select name="servingSizeMeasurement" id="servingSizeMeasurement">
+                <option id="servingSizeTsp" name="servingSizeTsp" value="servingSizeTsp">Teaspoon</option>
+                <option id="servingSizeTbsp" name="servingSizeTbsp" value="servingSizeTbsp">Tablespoon</option>
+                <option id="servingSizeFloz" name="servingSizeFloz" value="servingSizeFloz">Fluid Ounce</option>
+                <option id="servingSizeCup" name="servingSizeCup" value="servingSizeCup">Cup</option>
+            </select><br>
+
+            <label for="calories">Calories:</label><br>
+            <input type="number" id="calories" name="calories" value="0"><br>
+
+            <label for="totalFat">Total Fat:</label><br>
+            <input type="number" id="totalFat" name="totalFat" value="0"><br>
+
+            <label for="cholesterol">Cholesterol:</label><br>
+            <input type="number" id="cholesterol" name="cholesterol" value="0"><br>
+
+            <label for="sodium">Sodium:</label><br>
+            <input type="number" id="sodium" name="sodium" value="0"><br>
+
+            <label for="carbohydrates">Carbohydrates:</label><br>
+            <input type="number" id="carbohydrates" name="carbohydrates" value="0"><br>
+
+            <label for="protein">Protein:</label><br>
+            <input type="number" id="protein" name="protein" value="0"><br>
+
+            <input type="submit" onclick="errCheck()" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
