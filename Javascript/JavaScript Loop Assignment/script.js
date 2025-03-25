@@ -27,7 +27,7 @@ document.getElementById("demo").innerHTML = txt;
 
 // For Of Loop JS //
 
-const numbers = [45, 4, 9, 16, 25];
+const numbers = [1, 2, 3, 4, 5];
 
 let txt2 = "";
 for (let x in numbers) {
@@ -38,7 +38,19 @@ document.getElementById("demo2").innerHTML = txt2;
 
 // While Loop JS //
 
-
+let text = "";
+let i = 0;
+while (i < 10) {
+  text += "<br>The number is " + i;
+  i++;
+}
+document.getElementById("demo3").innerHTML = text;
 
 // Do While Loop JS //
 
+let u = 3;
+do {
+    console.log(u);
+    u--;
+} while (u > 0);
+document.getElementById("demo4").innerHTML = text;
