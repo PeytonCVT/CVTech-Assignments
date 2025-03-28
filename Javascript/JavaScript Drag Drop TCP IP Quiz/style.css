@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: gray;
+    color: white;
+}
+.question p{
+    font-size: 18px;
+    text-align: center;
+    color: gray;
+}
+.drag-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.draggable img{
+    height: 30px;
+    width: 70px;
+    margin: 10px;
+    border: solid 2px black;
+    cursor: pointer;
+}
+.drop-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.after-drop{
+    height: 30px;
+    width: 70px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.drop-target{
+    height: 30px;
+    width: 70px;
+    margin: 10px;
+    line-height: 30px;
+    text-align: center;
+    border: 2px dashed grey;
+}
+.correct{
+    background-color: green;
+}
+.wrong{
+    background-color: red;
+}
