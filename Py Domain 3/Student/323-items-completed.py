@@ -1,0 +1,7 @@
+print("You can get a Rock at level 1.")
+print("You can get a Pogo Stick at level 1.")
+print("You can get a Wand at level 2.")
+print("You can get a Pogo Stick at level 2.")
+print("You can get a Wand at level 3.")
+print("You can get a Rock at level 3.")
+print("You can get a Pogo Stick at level 3.")
